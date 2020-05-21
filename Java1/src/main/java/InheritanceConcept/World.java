@@ -9,7 +9,7 @@ public class World {
  public void nation()
  {
 	 System.out.println("India");
-	 System.out.println("Australlia");
+	 System.out.println("England");
  }
  
 }
